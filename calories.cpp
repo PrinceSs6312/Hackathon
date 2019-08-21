@@ -1,12 +1,12 @@
 #include <bits/stdc++.h>
 #include <iostream>
 #include <fstream> 
-#include"Caloriesr.h"
+#include"calories.h"
 using namespace std;
 
 void Calories()
 {
-ciin>>calories;
+cin>>calories;
 if(trimester==1)
 {
 if(calories<=1900 && calories>=1700)
